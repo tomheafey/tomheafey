@@ -1,10 +1,8 @@
 ### Hello there!👋 I'm Tom Heafey
 
-#### Junior web developer
+#### Web developer
 
-- I've just completed Midland University's Code Academy and am currently seeking employment as a developer
-
-- My background is in tech support and IT administration. I began learning Python to automate tasks (using Selenium and Pandas), which sparked my interest in making a career change
+- I currently work primarily with Astro + Vue on the frontend and .NET on the backend.
 
 #### Recent projects:
 
